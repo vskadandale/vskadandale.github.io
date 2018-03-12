@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theodore M. Giannaros / Site Title"
+title                    : "Theodore M. Giannaros"
 title_separator          : "-"
 name                     : &name "Theodore M. Giannaros"
 description              : &description "personal description"
@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "thgian@noa.gr"
   generatedFields:
     date:
       type               : "date"
