@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theodore M. Giannaros"
+title                    : "Dr. Theodore M. Giannaros"
 title_separator          : "-"
 name                     : &name "Theodore M. Giannaros"
 description              : &description "personal description"
