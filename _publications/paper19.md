@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "A comprehensive approach for the simulation of the Urban Heat Island effect with the WRF/SLUCM modeling system: The case of Athens (Greece)"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
