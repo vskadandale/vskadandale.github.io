@@ -1,5 +1,5 @@
 ---
-title: "20. Operational forecasting of human-biometeorological conditions"
+title: "Operational forecasting of human-biometeorological conditions"
 collection: publications
 permalink: /publication/2018-03-12-paper20
 excerpt: 'This paper presents the development of an operational forecasting service 
@@ -19,9 +19,3 @@ paperurl: 'http://tmgiannaros.github.io/files/paper20.pdf'
 citation: 'Giannaros TM, Lagouvardos K, Kotroni V, Matzarakis A (2018) 
 &quot;Operational forecasting of human-biometeorological conditions&quot; 
 <i>Int J Biometeorol</i> https://doi.org/10.1007/s00484-018-1525-3'
----
-[Download paper here](http://tmgiannaros.github.io/files/paper20.pdf)
-
-Recommended citation: Giannaros TM, Lagouvardos K, Kotroni V, Matzarakis A (2018) 
-&quot;Operational forecasting of human-biometeorological conditions&quot; 
-<i>Int J Biometeorol</i> https://doi.org/10.1007/s00484-018-1525-3
