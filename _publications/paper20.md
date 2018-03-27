@@ -19,3 +19,9 @@ paperurl: 'http://tmgiannaros.github.io/files/paper20.pdf'
 citation: 'Giannaros TM, Lagouvardos K, Kotroni V, Matzarakis A (2018) 
 &quot;Operational forecasting of human-biometeorological conditions&quot; 
 <i>Int J Biometeorol</i> https://doi.org/10.1007/s00484-018-1525-3'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://tmgiannaros.github.io/files/paper20.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
