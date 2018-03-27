@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Theodore M. Giannaros"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Theodore M. Giannaros"
-description              : &description "personal description"
-url                      : https://tmgiannaros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Numerical weather prediction & Atmospheric Modeling"
+url                      : https://tmgiannaros.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tmgiannaros/tmgiannaros.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
