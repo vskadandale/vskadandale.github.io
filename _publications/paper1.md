@@ -8,7 +8,7 @@ date: 2010-12-01
 venue: 'Environmental Modeling & Software'
 ---
 ### Abstract
-A grid-oriented Biogenic Emission Model (BEM) has been developed to calculate 
+>A grid-oriented Biogenic Emission Model (BEM) has been developed to calculate 
 Non-Methane Volatile Organic Compound (NMVOC) emissions from vegetation in high 
 spatial and temporal resolutions. The model allows the emissions calculation for 
 any modeling domain covering Europe on the basis of: 1) the U.S. Geological Survey 
