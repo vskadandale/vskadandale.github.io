@@ -3,10 +3,10 @@ title: "Study of the urban heat island in a coastal Mediterranean City: The case
 collection: publications
 permalink: /publication/paper2
 date: 2012-11-15
-excerpt: 'This work focuses on the study of the urban heat island effect in the coastal
+excerpt: "This work focuses on the study of the urban heat island effect in the coastal
 city of Thessaloniki (Greece), using both observational and numerical modeling techniques.
 It is considered to be the first study to provide a detailed overview of the characteristics
-of the city's heat island.'
+of the city's heat island."
 venue: 'Atmospheric Research 118: 103-120'
 ---
 ### Abstract
