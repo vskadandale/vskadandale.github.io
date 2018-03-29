@@ -3,9 +3,12 @@ title: "A model for European biogenic volatile organic compounds emissions: Soft
 first validation"
 collection: publications
 permalink: /publication/2010-paper1
-excerpt: 'This paper presents a grid-oriented model for biogenic emissions. '
 date: 2010-12-01
-venue: 'Environmental Modeling & Software'
+excerpt: 'This work presents the development of a grid-oriented emission model for biogenic
+emissions, written in Fortran. The model was initially incorporated into the MM52CAMX
+interface program, to allow for the online computation of biogenic emissions. After its
+firt development, the model was successfully ported to the WRF2CAMX interface program.'
+venue: 'Environmental Modeling & Software 25: 1845-1856'
 ---
 ### Abstract
 >A grid-oriented Biogenic Emission Model (BEM) has been developed to calculate 
