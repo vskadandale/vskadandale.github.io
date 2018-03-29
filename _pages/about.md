@@ -10,7 +10,7 @@ redirect_from:
 
 ![welcome image](/images/home_welcome.jpg)
 
-Born in 1982...
+I was born in 1982 in Thessaloniki, Greece. 
 
 A data-driven personal website
 ======
