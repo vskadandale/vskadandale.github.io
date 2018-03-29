@@ -1,8 +1,7 @@
 ---
-title: "A model for European biogenic volatile organic compounds emissions: Software development and
-first validation"
+title: "Study of the urban heat island in a coastal Mediterranean City: The case study of Thessaloniki, Greece"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/paper2
 date: 2010-12-01
 excerpt: 'This work presents the development of a grid-oriented emission model for biogenic
 emissions, written in Fortran. The model was initially incorporated into the MM52CAMX
