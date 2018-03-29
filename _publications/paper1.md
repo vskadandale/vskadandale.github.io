@@ -2,7 +2,7 @@
 title: "A model for European biogenic volatile organic compounds emissions: Software development and
 first validation"
 collection: publications
-permalink: /publication/2010-paper1
+permalink: /publication/paper1
 date: 2010-12-01
 excerpt: 'This work presents the development of a grid-oriented emission model for biogenic
 emissions, written in Fortran. The model was initially incorporated into the MM52CAMX
@@ -32,4 +32,4 @@ biogenic VOC emissions in Europe being equal to about ±600 kg km−2 month−1.
 Differences that are above this limit are found mainly in the eastern European 
 countries for isoprene and in the Mediterranean countries for monoterpenes.
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S1364815210001441?via%3Dihub)
+[Download paper here](http://tmgiannaros.github.io/files/paper1.pdf)
