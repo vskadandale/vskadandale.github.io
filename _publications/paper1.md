@@ -3,12 +3,11 @@ title: "A model for European biogenic volatile organic compounds emissions: Soft
 first validation"
 collection: publications
 permalink: /publication/2010-paper1
-excerpt: 'This paper presents '
+excerpt: 'This paper presents a grid-oriented model for biogenic emissions. '
 date: 2010-12-01
 venue: 'Environmental Modeling & Software'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1364815210001441?via%3Dihub'
 ---
-#### Abstract
+### Abstract
 A grid-oriented Biogenic Emission Model (BEM) has been developed to calculate 
 Non-Methane Volatile Organic Compound (NMVOC) emissions from vegetation in high 
 spatial and temporal resolutions. The model allows the emissions calculation for 
@@ -30,4 +29,4 @@ biogenic VOC emissions in Europe being equal to about ±600 kg km−2 month−1.
 Differences that are above this limit are found mainly in the eastern European 
 countries for isoprene and in the Mediterranean countries for monoterpenes.
 
-[Download paper here](http://tmgiannaros.github.io/files/paper20.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1364815210001441?via%3Dihub)
