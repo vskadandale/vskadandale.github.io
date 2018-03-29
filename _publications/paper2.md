@@ -2,12 +2,12 @@
 title: "Study of the urban heat island in a coastal Mediterranean City: The case study of Thessaloniki, Greece"
 collection: publications
 permalink: /publication/paper2
-date: 2010-12-01
-excerpt: 'This work presents the development of a grid-oriented emission model for biogenic
-emissions, written in Fortran. The model was initially incorporated into the MM52CAMX
-interface program, to allow for the online computation of biogenic emissions. After its
-firt development, the model was successfully ported to the WRF2CAMX interface program.'
-venue: 'Environmental Modeling & Software 25: 1845-1856'
+date: 2012-11-15
+excerpt: 'This work focuses on the study of the urban heat island effect in the coastal 
+city of Thessaloniki (Greece), using both observational and numerical modeling techniques. 
+It is considered to be the first study to provide a detailed overview of the characteristics
+of the city's heat island.'
+venue: 'Atmospheric Research 118: 103-120'
 ---
 ### Abstract
 >A grid-oriented Biogenic Emission Model (BEM) has been developed to calculate 
