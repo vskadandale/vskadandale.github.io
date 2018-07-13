@@ -23,7 +23,7 @@ peer-review scientific journals (225 citations, h-index of 8).
 
 I work extensively with the WRF (Weather Research and Forecasting) numerical weather
 prediction model, and the RayMan human-biometeorological model. I am experienced in 
-severa programming languages (Fortran, Python, GDAL, NCO, CDO, Bash), while I am also
+several programming languages (Fortran, Python, GDAL, NCO, CDO, Bash), while I am also
 proficient in using geographic information systems (Quantum GIS, ArcGIS). 
 
 
