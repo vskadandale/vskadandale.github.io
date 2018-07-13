@@ -10,7 +10,7 @@ redirect_from:
 
 ![welcome image](/images/home_welcome.jpg)
 
-Short bio
+Short bio 
 ======
 Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in Atmospheric Physics from the
 Aristotle University of Thessaloniki in Greece (2013). In 2014, I joined the National
