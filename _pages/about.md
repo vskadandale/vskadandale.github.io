@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![welcome image](/images/home_welcome.jpg)
-
 Short bio 
 ======
 Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in Atmospheric Physics from the
