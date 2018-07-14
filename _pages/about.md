@@ -31,10 +31,10 @@ and, in particular, **numerical weather prediction** and **regional climate mode
 Hence, my research is in principle based on the exploitation of numerical models for
 studying in detail the **atmospheric environment**. Areas of special focus include: 
 1. Severe weather
-2. Urban t environment (heat island effect)
+2. Urban atmospheric environment (heat island effect)
 3. Regional climate modeling
 4. Renewable resources (wind and solar energy)
-5. Human-biometeorology
+5. Human-biometeorology (thermal bioclimate)
 6. Fire weather and fire-atmosphere interactions
 7. Dust aerosols-meteorology interactions
 
