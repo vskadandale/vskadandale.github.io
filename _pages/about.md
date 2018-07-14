@@ -30,7 +30,13 @@ research directions remained unchanged. These are focused on **numerical modelin
 and, in particular, **numerical weather prediction** and **regional climate modeling**.
 Hence, my research is in principle based on the exploitation of numerical models for
 studying in detail the **atmospheric environment**. Areas of special focus include: 
-severe weather, the urban environment (heat island effect), regional climate, renewable resources (wind and solar energy), and human-biometeorology. 
+..* Severe weather
+..* Urban atmospheric environment (heat island effect)
+..* Regional climate modeling
+..* Renewable resources (wind and solar energy)
+..* Human-biometeorology
+..* Fire weather and fire-atmosphere interactions
+..* Dust aerosols-meteorology interactions
 
 Within the context of my doctoral studies (2009-2013), I specialized on the study of the urban thermal environment using numerical modeling and analysis of observations. My research focused on the study of the urban heat island (UHI) effect and the development of a high-resolution operational heat island forecasting system for European cities, employing a state-of-the-art numerical weather prediction (NWP) model and artificial neural network (ANN) techniques (Giannaros et al., 2013, 2014). In addition, I used observations for characterizing the heat island effect of the city of Thessaloniki, Greece, and attempting to associate it to the degradation of thermal comfort conditions (Giannaros and Melas, 2012). 
 
