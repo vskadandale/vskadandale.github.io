@@ -30,17 +30,29 @@ research directions remained unchanged. These are focused on **numerical modelin
 and, in particular, **numerical weather prediction** and **regional climate modeling**.
 Hence, my research is in principle based on the exploitation of numerical models for
 studying in detail the **atmospheric environment**. Areas of special focus include: 
-..* Severe weather
-..* Urban atmospheric environment (heat island effect)
-..* Regional climate modeling
-..* Renewable resources (wind and solar energy)
-..* Human-biometeorology
-..* Fire weather and fire-atmosphere interactions
-..* Dust aerosols-meteorology interactions
+1. Severe weather
+2. Urban t environment (heat island effect)
+3. Regional climate modeling
+4. Renewable resources (wind and solar energy)
+5. Human-biometeorology
+6. Fire weather and fire-atmosphere interactions
+7. Dust aerosols-meteorology interactions
 
-Within the context of my doctoral studies (2009-2013), I specialized on the study of the urban thermal environment using numerical modeling and analysis of observations. My research focused on the study of the urban heat island (UHI) effect and the development of a high-resolution operational heat island forecasting system for European cities, employing a state-of-the-art numerical weather prediction (NWP) model and artificial neural network (ANN) techniques (Giannaros et al., 2013, 2014). In addition, I used observations for characterizing the heat island effect of the city of Thessaloniki, Greece, and attempting to associate it to the degradation of thermal comfort conditions (Giannaros and Melas, 2012). 
+Within the context of my doctoral studies (**2009-2013**), I specialized on the study
+of the **urban thermal environment** using numerical modeling and analysis of 
+observations. My research focused on the study of the **urban heat island** (UHI) 
+effect and the development of a high-resolution operational heat island forecasting
+system for European cities, employing a state-of-the-art numerical weather prediction
+(NWP) model and **artificial neural network** (ANN) techniques (Giannaros et al., 2013, 2014).
+In addition, I used observations for characterizing the heat island effect of the 
+city of Thessaloniki, Greece, and attempting to associate it to the degradation of
+thermal comfort conditions (Giannaros and Melas, 2012). 
 
-Thermal comfort has also been a major subject of my research. To this end, I focused on the offline coupling of a NWP model and a microclimatic one (RayMan), in order to examine the spatiotemporal variability of thermal bioclimatic conditions over Greece (Giannaros et al., 2015a). Further, I have recently started the analysis of a high-resolution 20-year dataset of meteorological simulations focusing on the Mediterranean, with the aim to provide the long-term climatology of thermal bioclimatic conditions and quantify any potential trends due to climate change. 
+**Thermal comfort** has also been a major subject of my research. To this end, 
+I focused on the offline **coupling** of a **NWP model** and a **microclimatic** one
+(RayMan), in order to examine the spatiotemporal variability 
+of thermal bioclimatic conditions over Greece (Giannaros et al., 2015a). Further, 
+I have recently started the analysis of a high-resolution 20-year dataset of meteorological simulations focusing on the Mediterranean, with the aim to provide the long-term climatology of thermal bioclimatic conditions and quantify any potential trends due to climate change. 
 
 As a post-doc researcher (2014-today), my work expanded to studying severe weather. In particular, a large part of my most recent research focuses on lightning activity. In this frame, I employed a NWP model for investigating its capacity in terms of providing lightning forecasts for increasing public awareness (Giannaros et al., 2015b, 2016a). Additionally, I exploited lightning observations in order to provide a data assimilation technique for NWP models that can be used for improving precipitation forecasts (Giannaros et al., 2016b). 
 
