@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Short bio 
-======
-Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in Atmospheric Physics from the
-Aristotle University of Thessaloniki in Greece (2013). In 2014, I joined the National
-Observatory of Athens (NOA) where I currently act as a post-doctoral researcher. My
-research interests and expertise include numerical modeling focusing primarily on 
-severe weather, urban meteorology and climatology, focusing on the study of the urban
-heat island effect, human biometeorology with emphasis on the study of the thermal 
-bioclimate, and regional climate modeling. I have published 22 papers in international
+## Short bio 
+Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in **Atmospheric Physics** from the
+**Aristotle University of Thessaloniki** in Greece (2013). In 2014, I joined the **National
+Observatory of Athens** (NOA) where I currently act as a post-doctoral researcher. My
+research interests and expertise include **numerical modeling** focusing primarily on 
+**severe weather**, **urban meteorology** and **climatology**, focusing on the study of the **urban
+heat island** effect, **human biometeorology** with emphasis on the study of the **thermal 
+bioclimate**, and regional climate modeling. I have published 22 papers in international
 peer-review scientific journals (225 citations, h-index of 8). 
 
-I work extensively with the WRF (Weather Research and Forecasting) numerical weather
-prediction model, and the RayMan human-biometeorological model. I am experienced in 
-several programming languages (Fortran, Python, GDAL, NCO, CDO, Bash), while I am also
-proficient in using geographic information systems (Quantum GIS, ArcGIS). 
+I work extensively with the **WRF (Weather Research and Forecasting)** numerical weather
+prediction model, and the **RayMan** human-biometeorological model. I am experienced in 
+several programming languages (**Fortran, Python, GDAL, NCO, CDO, Bash**), while I am also
+proficient in using **geographic information systems** (Quantum GIS, ArcGIS). 
 
 
 
