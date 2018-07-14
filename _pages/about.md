@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
 ## Short bio 
 Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in **Atmospheric Physics** from the
