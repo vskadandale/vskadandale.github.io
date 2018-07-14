@@ -6,3 +6,5 @@ _publications/paper2.md~
 .DS_Store
 _pages/about.md~
 *.md~
+*.md~
+.DS_Store
