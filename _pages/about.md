@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 ## Short bio 
 Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in **Atmospheric Physics** from the
 **Aristotle University of Thessaloniki** in Greece (2013). In 2014, I joined the **National
@@ -22,36 +22,24 @@ prediction model, and the **RayMan** human-biometeorological model. I am experie
 several programming languages (**Fortran, Python, GDAL, NCO, CDO, Bash**), while I am also
 proficient in using **geographic information systems** (Quantum GIS, ArcGIS). 
 
+## Research interests
+My research activity spans almost a decade, dating back in 2007 when I obtained my
+M.Sc. diploma in Environmental Physics. Although my interests have shifted over the 
+time, my research activity shows **considerable continuity** since my principal 
+research directions remained unchanged. These are focused on **numerical modeling**
+and, in particular, **numerical weather prediction** and **regional climate modeling**.
+Hence, my research is in principle based on the exploitation of numerical models for
+studying in detail the **atmospheric environment**. Areas of special focus include: 
+severe weather, the urban environment (heat island effect), regional climate, renewable resources (wind and solar energy), and human-biometeorology. 
 
+Within the context of my doctoral studies (2009-2013), I specialized on the study of the urban thermal environment using numerical modeling and analysis of observations. My research focused on the study of the urban heat island (UHI) effect and the development of a high-resolution operational heat island forecasting system for European cities, employing a state-of-the-art numerical weather prediction (NWP) model and artificial neural network (ANN) techniques (Giannaros et al., 2013, 2014). In addition, I used observations for characterizing the heat island effect of the city of Thessaloniki, Greece, and attempting to associate it to the degradation of thermal comfort conditions (Giannaros and Melas, 2012). 
 
+Thermal comfort has also been a major subject of my research. To this end, I focused on the offline coupling of a NWP model and a microclimatic one (RayMan), in order to examine the spatiotemporal variability of thermal bioclimatic conditions over Greece (Giannaros et al., 2015a). Further, I have recently started the analysis of a high-resolution 20-year dataset of meteorological simulations focusing on the Mediterranean, with the aim to provide the long-term climatology of thermal bioclimatic conditions and quantify any potential trends due to climate change. 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+As a post-doc researcher (2014-today), my work expanded to studying severe weather. In particular, a large part of my most recent research focuses on lightning activity. In this frame, I employed a NWP model for investigating its capacity in terms of providing lightning forecasts for increasing public awareness (Giannaros et al., 2015b, 2016a). Additionally, I exploited lightning observations in order to provide a data assimilation technique for NWP models that can be used for improving precipitation forecasts (Giannaros et al., 2016b). 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Last, my research also includes the employment of numerical modeling for supporting renewable resources applications. This is highlighted in my work that focuses on both solar (Zempila et al., 2016) and wind energy (Giannaros et al., accepted for publication). 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+In terms of my present and future research directions, these are currently focused on studying the climatic effects of dust aerosols over the Mediterranean region. This work is carried out using a coupled meteorology-chemistry numerical model and aims at providing breakthrough insights on the impacts dust particles have on the radiation budget and cloud formation. 
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+All the papers referenced herein are available in my detailed Curriculum Vitae. 
