@@ -8,3 +8,5 @@ _pages/about.md~
 *.md~
 *.md~
 .DS_Store
+.DS_Store
+*.md~

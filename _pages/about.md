@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Short bio 
+## ABOUT ME 
+I am an atmospheric modeler, 
+
 Born in 1982 in Thessaloniki (Greece), I hold a Ph.D. in **Atmospheric Physics** from the
 **Aristotle University of Thessaloniki** in Greece (2013). In 2014, I joined the **National
 Observatory of Athens** (NOA) where I currently act as a post-doctoral researcher. My
