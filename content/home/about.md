@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
 I am an atmospheric modeler fascinated by the powerful nature of our planet's 
 atmosphere that drives the various phenomena in which I am interested. 
