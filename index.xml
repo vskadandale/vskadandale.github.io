@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theodore M. Giannaros on Theodore M. Giannaros</title>
+    <link>https://tmgiannaros.github.io/</link>
+    <description>Recent content in Theodore M. Giannaros on Theodore M. Giannaros</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Numerical weather prediction models: A powerful tool for studying the atmosphere (in Greek)</title>
+      <link>https://tmgiannaros.github.io/talk/patra-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/patra-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WRF-Chem model: Overview, capabilities, examples  (in English)</title>
+      <link>https://tmgiannaros.github.io/talk/belgrade-2017/</link>
+      <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/talk/belgrade-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BalkanMed real time severe weather service (BeRTISS)</title>
+      <link>https://tmgiannaros.github.io/project/bertiss/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/project/bertiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought and fIre ObServatory and eArly waRning systeM (DISARM)</title>
+      <link>https://tmgiannaros.github.io/project/disarm/</link>
+      <pubDate>Mon, 15 Oct 2018 00:39:11 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/project/disarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operational forecasting of human-biometeorological conditions</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al_2018-international_journal_of_biometeorology/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al_2018-international_journal_of_biometeorology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climatology and trends of the Euro-Mediterranean thermal bioclimate</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-international_journal_of_climatology/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-international_journal_of_climatology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of an Explicit Lightning Forecasting System</title>
+      <link>https://tmgiannaros.github.io/publication/dafis_et_al-2018-journal_of_geophysical_research/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/dafis_et_al-2018-journal_of_geophysical_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive approach for the simulation of the Urban Heat Island effect with the WRF/SLUCM modeling system: The case of Athens (Greece)</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-atmospheric_research/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrahigh resolution wind forecasting for the sailing events at the Rio de Janeiro 2016 Summer Olympic Games</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-meteorological_applications/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-meteorological_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity of the WRF-Chem (V3.6.1) model to different dust emission parametrisation: Assessment in the broader Mediterranean region</title>
+      <link>https://tmgiannaros.github.io/publication/flaounas_et_al-2017-geoscientific_model_development/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/flaounas_et_al-2017-geoscientific_model_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observational and modeling study of a mesoscale convective system during the HyMeX — SOP1</title>
+      <link>https://tmgiannaros.github.io/publication/dafis_et_al-2017-atmospheric_research/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/dafis_et_al-2017-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of the Weather Research and Forecasting (WRF) model for assessing wind resource in Greece</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-renewable_energy/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-renewable_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of an operational lightning forecasting system in Europe</title>
+      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-natural_hazards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-natural_hazards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of natural emission sources on particle pollution levels in Europe</title>
+      <link>https://tmgiannaros.github.io/publication/liora_et_al-2016-atmospheric_environment/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/liora_et_al-2016-atmospheric_environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observational and numerical study of the Vardaris wind regime in northern Greece</title>
+      <link>https://tmgiannaros.github.io/publication/koletsis_et_al-2016-atmospheric_research/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/koletsis_et_al-2016-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
