@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/post/quote-of-the-day_20181028/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/post/quote-of-the-day_20181028/" hreflang="el"/>
+    
+      <loc>https://tmgiannaros.github.io/post/quote-of-the-day_20181028/</loc>
+      <lastmod>2018-10-28T20:50:09+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/talk/patra-2017/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/talk/patra-2017/" hreflang="el"/>
     
@@ -146,6 +157,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/post/" hreflang="el"/>
     
       <loc>https://tmgiannaros.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+02:00</lastmod>

@@ -11,6 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Quote of the Day: October 28 2018</title>
+      <link>https://tmgiannaros.github.io/post/quote-of-the-day_20181028/</link>
+      <pubDate>Sun, 28 Oct 2018 20:50:09 +0200</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/post/quote-of-the-day_20181028/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The devil whispered in my ear, &amp;ldquo;you&amp;rsquo;re not strong enough to withstand the storm&amp;rdquo;.
+I responded by whispering in the devil&amp;rsquo;s ear, &amp;ldquo;&lt;strong&gt;I am the storm&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/j-70dbSeYsQ&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Numerical weather prediction models: A powerful tool for studying the atmosphere (in Greek)</title>
       <link>https://tmgiannaros.github.io/talk/patra-2017/</link>
       <pubDate>Mon, 15 Oct 2018 00:54:14 +0300</pubDate>
@@ -133,15 +148,6 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tmgiannaros.github.io/publication/liora_et_al-2016-atmospheric_environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observational and numerical study of the Vardaris wind regime in northern Greece</title>
-      <link>https://tmgiannaros.github.io/publication/koletsis_et_al-2016-atmospheric_research/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://tmgiannaros.github.io/publication/koletsis_et_al-2016-atmospheric_research/</guid>
       <description></description>
     </item>
     
