@@ -26,6 +26,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/talk/heraklion-2018/" hreflang="el"/>
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/talk/heraklion-2018/" hreflang="en"/>
+    
       <loc>https://tmgiannaros.github.io/el/talk/heraklion-2018/</loc>
       <lastmod>2018-10-15T00:54:14+03:00</lastmod>
     </url>
