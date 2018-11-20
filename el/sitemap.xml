@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/talk/athens-2018/" hreflang="el"/>
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/talk/athens-2018/" hreflang="en"/>
+    
+      <loc>https://tmgiannaros.github.io/el/talk/athens-2018/</loc>
+      <lastmod>2018-11-20T00:54:14+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/post/quote-of-the-day_20181028/" hreflang="el"/>
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/post/quote-of-the-day_20181028/" hreflang="en"/>
     
@@ -398,7 +409,7 @@
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/talk/" hreflang="en"/>
     
       <loc>https://tmgiannaros.github.io/el/talk/</loc>
-      <lastmod>2018-10-15T00:54:14+03:00</lastmod>
+      <lastmod>2018-11-20T00:54:14+03:00</lastmod>
       <priority>0</priority>
     </url>
     

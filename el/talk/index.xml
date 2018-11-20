@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 15 Oct 2018 00:54:14 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:54:14 +0300</lastBuildDate>
     
 	<atom:link href="https://tmgiannaros.github.io/el/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Climate modeling and applications  (στα Αγγλικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/athens-2018/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/athens-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The WRF-Chem model: Overview, capabilities, examples  (στα Αγγλικά)</title>

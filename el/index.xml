@@ -11,6 +11,15 @@
     <atom:link href="/el/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Climate modeling and applications  (στα Αγγλικά)</title>
+      <link>https://tmgiannaros.github.io/el/talk/athens-2018/</link>
+      <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/talk/athens-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Το απόφθεγμά της ημέρας: 28 Οκτωβρίου 2018</title>
       <link>https://tmgiannaros.github.io/el/post/quote-of-the-day_20181028/</link>
       <pubDate>Sun, 28 Oct 2018 20:50:09 +0200</pubDate>
@@ -139,15 +148,6 @@
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tmgiannaros.github.io/el/publication/giannaros_et_al-2017-renewable_energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance evaluation of an operational lightning forecasting system in Europe</title>
-      <link>https://tmgiannaros.github.io/el/publication/giannaros_et_al-2017-natural_hazards/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://tmgiannaros.github.io/el/publication/giannaros_et_al-2017-natural_hazards/</guid>
       <description></description>
     </item>
     
