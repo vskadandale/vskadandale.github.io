@@ -15,6 +15,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/talk/athens-2019/" hreflang="el"/>
+      <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/talk/athens-2019/" hreflang="en"/>
+    
+      <loc>https://tmgiannaros.github.io/el/talk/athens-2019/</loc>
+      <lastmod>2018-11-20T00:54:14+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/el/post/2019-wishes/" hreflang="el"/>
       <xhtml:link rel="alternate" href="https://tmgiannaros.github.io/post/2019-wishes/" hreflang="en"/>
     
