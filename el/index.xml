@@ -11,6 +11,15 @@
     <atom:link href="/el/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>On the short-term simulation of heat waves in the Southeast Mediterranean: Sensitivity of the WRF model to various physics schemes</title>
+      <link>https://tmgiannaros.github.io/el/publication/giannaros_et_al-2019-atmospheric_research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/el/publication/giannaros_et_al-2019-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climate modeling and applications  (στα Αγγλικά)</title>
       <link>https://tmgiannaros.github.io/el/talk/athens-2018/</link>
       <pubDate>Tue, 20 Nov 2018 00:54:14 +0300</pubDate>
@@ -182,15 +191,6 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tmgiannaros.github.io/el/publication/giannaros_et_al-2017-meteorological_applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensitivity of the WRF-Chem (V3.6.1) model to different dust emission parametrisation: Assessment in the broader Mediterranean region</title>
-      <link>https://tmgiannaros.github.io/el/publication/flaounas_et_al-2017-geoscientific_model_development/</link>
-      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://tmgiannaros.github.io/el/publication/flaounas_et_al-2017-geoscientific_model_development/</guid>
       <description></description>
     </item>
     
