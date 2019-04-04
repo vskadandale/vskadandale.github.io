@@ -15,12 +15,12 @@
   
     
   
-  <meta name="description" content="The current study investigated the impact of the Weather Research and Forecasting (WRF) (a) surface layer (SL), (b) land surface and (c) planetary boundary layer (PBL) physics on the short-term simulation of the meteorological and human thermal comfort conditions during 15 heat waves identified between 2004 and 2013 in the southeast Mediterranean and Balkan Peninsula. Four widely used PBL-SL schemes (YSU-MM5, MYJ-Eta, ACM2-Revised MM5, YSU-Revised MM5) and land surface models (LSMs; Noah, Noah-MP, CLM4, RUC) were tested. Comparisons with ground-based observations in 60 measuring sites showed that the WRF model is characterized by a cold bias leading to the underestimation of the extreme heat stress conditions over the entire study region. The MYJ-Eta experiment simulated greater sensible heat fluxes compared to the other PBL-SL scenarios due to the high surface heat exchange coefficient provided by the Eta SL scheme. This contributed to the high MYJ-Eta-modeled daytime 2-m air temperature (T2) and physiologically equivalent temperature (PET) values that were close to the observations. The ACM2 PBL algorithm produced significantly higher PBL heights compared to rest of the tested PBL parameterizations reflecting the strong vertical mixing generated in this scheme. This contributed to the most accurate ACM2-Revised MM5-modeled T2 and PET results in overall. The use of the RUC LSM strengthened significantly the modeled sensible heat fluxes contributing directly to the satisfactory replication of the observed T2 and PET values. However, the RUC-induced enhanced sensible heating relative to the latent heating is may related to a possible underestimation of the soil moisture, as indicated by the notable dry biases during the RUC experiment. Thus, the most accurate T2 and PET results provided by the RUC model may arise from the wrong reason.">
+  <meta name="description" content="The Coordinated Regional Climate Downscaling Experiment (CORDEX) is a scientific effort of the World Climate Research Program (WRCP) for the coordination of regional climate initiatives. In order to accept an experiment, CORDEX provides experiment guidelines, specifications of regional domains, and data access and archiving. CORDEX experiments are important to study climate at the regional scale, and at the same time, they also have a very prominent role in providing regional climate data of high quality. Data requirements are intended to cover all the possible needs of stakeholders and scientists working on climate change mitigation and adaptation policies in various scientific communities. The required data and diagnostics are grouped into different levels of frequency and priority, and some of them even have to be provided as statistics (minimum, maximum, mean) over different time periods. Most commonly, scientists need to post-process the raw output of regional climate models, since the latter was not originally designed to meet the specific CORDEX data requirements. This post-processing procedure includes the computation of diagnostics, statistics, and final homogenization of the data, which is often computationally costly and time-consuming. Therefore, the development of specialized software and/or code is required. The current paper presents the development of a specialized module (version 1.3) for the Weather Research and Forecasting (WRF) model capable of outputting the required CORDEX variables. Additional diagnostic variables not required by CORDEX, but of potential interest to the regional climate modeling community, are also included in the module. “Generic” definitions of variables are adopted in order to overcome the model and/or physics parameterization dependence of certain diagnostics and variables, thus facilitating a robust comparison among simulations. The module is computationally optimized, and the output is divided into different priority levels following CORDEX specifications (Core, Tier 1, and additional) by selecting pre-compilation flags. This implementation of the module does not add a significant extra cost when running the model; for example, the addition of the Core variables slows the model time step by less than a 5 %. The use of the module reduces the requirements of disk storage by about a 50 %. The module performs neither additional statistics over different periods of time nor homogenization of the output data.">
 
   
-  <link rel="alternate" hreflang="el" href="https://tmgiannaros.github.io/el/publication/giannaros_et_al-2019-atmospheric_research/">
+  <link rel="alternate" hreflang="el" href="https://tmgiannaros.github.io/el/publication/fita_et_al-2019-geoscientific_model_development/">
   
-  <link rel="alternate" hreflang="en-us" href="https://tmgiannaros.github.io/publication/giannaros_et_al-2019-atmospheric_research/">
+  <link rel="alternate" hreflang="en-us" href="https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/">
 
   
 
@@ -106,14 +106,14 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://tmgiannaros.github.io/publication/giannaros_et_al-2019-atmospheric_research/">
+  <link rel="canonical" href="https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Theodore M. Giannaros">
-  <meta property="og:url" content="https://tmgiannaros.github.io/publication/giannaros_et_al-2019-atmospheric_research/">
-  <meta property="og:title" content="On the short-term simulation of heat waves in the Southeast Mediterranean: Sensitivity of the WRF model to various physics schemes | Theodore M. Giannaros">
-  <meta property="og:description" content="The current study investigated the impact of the Weather Research and Forecasting (WRF) (a) surface layer (SL), (b) land surface and (c) planetary boundary layer (PBL) physics on the short-term simulation of the meteorological and human thermal comfort conditions during 15 heat waves identified between 2004 and 2013 in the southeast Mediterranean and Balkan Peninsula. Four widely used PBL-SL schemes (YSU-MM5, MYJ-Eta, ACM2-Revised MM5, YSU-Revised MM5) and land surface models (LSMs; Noah, Noah-MP, CLM4, RUC) were tested. Comparisons with ground-based observations in 60 measuring sites showed that the WRF model is characterized by a cold bias leading to the underestimation of the extreme heat stress conditions over the entire study region. The MYJ-Eta experiment simulated greater sensible heat fluxes compared to the other PBL-SL scenarios due to the high surface heat exchange coefficient provided by the Eta SL scheme. This contributed to the high MYJ-Eta-modeled daytime 2-m air temperature (T2) and physiologically equivalent temperature (PET) values that were close to the observations. The ACM2 PBL algorithm produced significantly higher PBL heights compared to rest of the tested PBL parameterizations reflecting the strong vertical mixing generated in this scheme. This contributed to the most accurate ACM2-Revised MM5-modeled T2 and PET results in overall. The use of the RUC LSM strengthened significantly the modeled sensible heat fluxes contributing directly to the satisfactory replication of the observed T2 and PET values. However, the RUC-induced enhanced sensible heating relative to the latent heating is may related to a possible underestimation of the soil moisture, as indicated by the notable dry biases during the RUC experiment. Thus, the most accurate T2 and PET results provided by the RUC model may arise from the wrong reason.">
+  <meta property="og:url" content="https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/">
+  <meta property="og:title" content="CORDEX-WRF v1.3: development of a module for the Weather Research and Forecasting (WRF) model to support the CORDEX community | Theodore M. Giannaros">
+  <meta property="og:description" content="The Coordinated Regional Climate Downscaling Experiment (CORDEX) is a scientific effort of the World Climate Research Program (WRCP) for the coordination of regional climate initiatives. In order to accept an experiment, CORDEX provides experiment guidelines, specifications of regional domains, and data access and archiving. CORDEX experiments are important to study climate at the regional scale, and at the same time, they also have a very prominent role in providing regional climate data of high quality. Data requirements are intended to cover all the possible needs of stakeholders and scientists working on climate change mitigation and adaptation policies in various scientific communities. The required data and diagnostics are grouped into different levels of frequency and priority, and some of them even have to be provided as statistics (minimum, maximum, mean) over different time periods. Most commonly, scientists need to post-process the raw output of regional climate models, since the latter was not originally designed to meet the specific CORDEX data requirements. This post-processing procedure includes the computation of diagnostics, statistics, and final homogenization of the data, which is often computationally costly and time-consuming. Therefore, the development of specialized software and/or code is required. The current paper presents the development of a specialized module (version 1.3) for the Weather Research and Forecasting (WRF) model capable of outputting the required CORDEX variables. Additional diagnostic variables not required by CORDEX, but of potential interest to the regional climate modeling community, are also included in the module. “Generic” definitions of variables are adopted in order to overcome the model and/or physics parameterization dependence of certain diagnostics and variables, thus facilitating a robust comparison among simulations. The module is computationally optimized, and the output is divided into different priority levels following CORDEX specifications (Core, Tier 1, and additional) by selecting pre-compilation flags. This implementation of the module does not add a significant extra cost when running the model; for example, the addition of the Core variables slows the model time step by less than a 5 %. The use of the module reduces the requirements of disk storage by about a 50 %. The module performs neither additional statistics over different periods of time nor homogenization of the output data.">
   
   
     
@@ -155,7 +155,7 @@
 
   
 
-  <title>On the short-term simulation of heat waves in the Southeast Mediterranean: Sensitivity of the WRF model to various physics schemes | Theodore M. Giannaros</title>
+  <title>CORDEX-WRF v1.3: development of a module for the Weather Research and Forecasting (WRF) model to support the CORDEX community | Theodore M. Giannaros</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -326,7 +326,7 @@
           <ul class="dropdown-menu">
             
             <li class="dropdown-item my-0 py-0 mx-0 px-0">
-              <a href="/el/publication/giannaros_et_al-2019-atmospheric_research/">
+              <a href="/el/publication/fita_et_al-2019-geoscientific_model_development/">
                 <span>Ελληνικά</span>
               </a>
             </li>
@@ -349,10 +349,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">On the short-term simulation of heat waves in the Southeast Mediterranean: Sensitivity of the WRF model to various physics schemes</h1>
+    <h1 itemprop="name">CORDEX-WRF v1.3: development of a module for the Weather Research and Forecasting (WRF) model to support the CORDEX community</h1>
     <span class="pub-authors" itemprop="author">
       
-      Giannaros C, Melas D, <strong>Giannaros TM</strong>
+      Fita L, Polcher J, <strong>Giannaros TM</strong>, Lorenz T, Milovac J, Sofiadis I, Katragkou E, Bastin S
       
     </span>
     <span class="float-right">
@@ -361,35 +361,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=On%20the%20short-term%20simulation%20of%20heat%20waves%20in%20the%20Southeast%20Mediterranean%3a%20Sensitivity%20of%20the%20WRF%20model%20to%20various%20physics%20schemes&amp;url=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2fgiannaros_et_al-2019-atmospheric_research%2f"
+         href="https://twitter.com/intent/tweet?text=CORDEX-WRF%20v1.3%3a%20development%20of%20a%20module%20for%20the%20Weather%20Research%20and%20Forecasting%20%28WRF%29%20model%20to%20support%20the%20CORDEX%20community&amp;url=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2ffita_et_al-2019-geoscientific_model_development%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2fgiannaros_et_al-2019-atmospheric_research%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2ffita_et_al-2019-geoscientific_model_development%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2fgiannaros_et_al-2019-atmospheric_research%2f&amp;title=On%20the%20short-term%20simulation%20of%20heat%20waves%20in%20the%20Southeast%20Mediterranean%3a%20Sensitivity%20of%20the%20WRF%20model%20to%20various%20physics%20schemes"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2ffita_et_al-2019-geoscientific_model_development%2f&amp;title=CORDEX-WRF%20v1.3%3a%20development%20of%20a%20module%20for%20the%20Weather%20Research%20and%20Forecasting%20%28WRF%29%20model%20to%20support%20the%20CORDEX%20community"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2fgiannaros_et_al-2019-atmospheric_research%2f&amp;title=On%20the%20short-term%20simulation%20of%20heat%20waves%20in%20the%20Southeast%20Mediterranean%3a%20Sensitivity%20of%20the%20WRF%20model%20to%20various%20physics%20schemes"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2ffita_et_al-2019-geoscientific_model_development%2f&amp;title=CORDEX-WRF%20v1.3%3a%20development%20of%20a%20module%20for%20the%20Weather%20Research%20and%20Forecasting%20%28WRF%29%20model%20to%20support%20the%20CORDEX%20community"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=On%20the%20short-term%20simulation%20of%20heat%20waves%20in%20the%20Southeast%20Mediterranean%3a%20Sensitivity%20of%20the%20WRF%20model%20to%20various%20physics%20schemes&amp;body=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2fgiannaros_et_al-2019-atmospheric_research%2f">
+         href="mailto:?subject=CORDEX-WRF%20v1.3%3a%20development%20of%20a%20module%20for%20the%20Weather%20Research%20and%20Forecasting%20%28WRF%29%20model%20to%20support%20the%20CORDEX%20community&amp;body=https%3a%2f%2ftmgiannaros.github.io%2fpublication%2ffita_et_al-2019-geoscientific_model_development%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -403,7 +403,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The current study investigated the impact of the Weather Research and Forecasting (WRF) (a) surface layer (SL), (b) land surface and &copy; planetary boundary layer (PBL) physics on the short-term simulation of the meteorological and human thermal comfort conditions during 15 heat waves identified between 2004 and 2013 in the southeast Mediterranean and Balkan Peninsula. Four widely used PBL-SL schemes (YSU-MM5, MYJ-Eta, ACM2-Revised MM5, YSU-Revised MM5) and land surface models (LSMs; Noah, Noah-MP, CLM4, RUC) were tested. Comparisons with ground-based observations in 60 measuring sites showed that the WRF model is characterized by a cold bias leading to the underestimation of the extreme heat stress conditions over the entire study region. The MYJ-Eta experiment simulated greater sensible heat fluxes compared to the other PBL-SL scenarios due to the high surface heat exchange coefficient provided by the Eta SL scheme. This contributed to the high MYJ-Eta-modeled daytime 2-m air temperature (T2) and physiologically equivalent temperature (PET) values that were close to the observations. The ACM2 PBL algorithm produced significantly higher PBL heights compared to rest of the tested PBL parameterizations reflecting the strong vertical mixing generated in this scheme. This contributed to the most accurate ACM2-Revised MM5-modeled T2 and PET results in overall. The use of the RUC LSM strengthened significantly the modeled sensible heat fluxes contributing directly to the satisfactory replication of the observed T2 and PET values. However, the RUC-induced enhanced sensible heating relative to the latent heating is may related to a possible underestimation of the soil moisture, as indicated by the notable dry biases during the RUC experiment. Thus, the most accurate T2 and PET results provided by the RUC model may arise from the wrong reason.</p>
+    <p class="pub-abstract" itemprop="text">The Coordinated Regional Climate Downscaling Experiment (CORDEX) is a scientific effort of the World Climate Research Program (WRCP) for the coordination of regional climate initiatives. In order to accept an experiment, CORDEX provides experiment guidelines, specifications of regional domains, and data access and archiving. CORDEX experiments are important to study climate at the regional scale, and at the same time, they also have a very prominent role in providing regional climate data of high quality. Data requirements are intended to cover all the possible needs of stakeholders and scientists working on climate change mitigation and adaptation policies in various scientific communities. The required data and diagnostics are grouped into different levels of frequency and priority, and some of them even have to be provided as statistics (minimum, maximum, mean) over different time periods. Most commonly, scientists need to post-process the raw output of regional climate models, since the latter was not originally designed to meet the specific CORDEX data requirements. This post-processing procedure includes the computation of diagnostics, statistics, and final homogenization of the data, which is often computationally costly and time-consuming. Therefore, the development of specialized software and/or code is required. The current paper presents the development of a specialized module (version 1.3) for the Weather Research and Forecasting (WRF) model capable of outputting the required CORDEX variables. Additional diagnostic variables not required by CORDEX, but of potential interest to the regional climate modeling community, are also included in the module. “Generic” definitions of variables are adopted in order to overcome the model and/or physics parameterization dependence of certain diagnostics and variables, thus facilitating a robust comparison among simulations. The module is computationally optimized, and the output is divided into different priority levels following CORDEX specifications (Core, Tier 1, and additional) by selecting pre-compilation flags. This implementation of the module does not add a significant extra cost when running the model; for example, the addition of the Core variables slows the model time step by less than a 5 %. The use of the module reduces the requirements of disk storage by about a 50 %. The module performs neither additional statistics over different periods of time nor homogenization of the output data.</p>
     
 
     
@@ -414,7 +414,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Atmospheric Research 218:99-16</div>
+          <div class="col-12 col-md-9">Geoscientific Model Development 12:1029-1066</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -448,7 +448,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/Giannaros_et_al-2019-Atmospheric_Research.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/Fita_et_al-2019-Geoscientific_Model_Development.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 

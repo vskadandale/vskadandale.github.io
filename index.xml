@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CORDEX-WRF v1.3: development of a module for the Weather Research and Forecasting (WRF) model to support the CORDEX community</title>
+      <link>https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling lightning density using cloud top parameters</title>
+      <link>https://tmgiannaros.github.io/publication/karagiannidis_et_al-2019-atmospheric_research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tmgiannaros.github.io/publication/karagiannidis_et_al-2019-atmospheric_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the short-term simulation of heat waves in the Southeast Mediterranean: Sensitivity of the WRF model to various physics schemes</title>
       <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2019-atmospheric_research/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -173,24 +191,6 @@ I responded by whispering in the devil&amp;rsquo;s ear, &amp;ldquo;&lt;strong&gt
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://tmgiannaros.github.io/publication/dafis_et_al-2018-journal_of_geophysical_research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A comprehensive approach for the simulation of the Urban Heat Island effect with the WRF/SLUCM modeling system: The case of Athens (Greece)</title>
-      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-atmospheric_research/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2018-atmospheric_research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ultrahigh resolution wind forecasting for the sailing events at the Rio de Janeiro 2016 Summer Olympic Games</title>
-      <link>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-meteorological_applications/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://tmgiannaros.github.io/publication/giannaros_et_al-2017-meteorological_applications/</guid>
       <description></description>
     </item>
     
