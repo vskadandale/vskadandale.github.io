@@ -131,6 +131,10 @@ video {
   margin: 0 auto;
 }
 
+.asterix {
+  padding-left: 2px;
+}
+
 figcaption {
   display: block;
   margin-top: 0.75em;
