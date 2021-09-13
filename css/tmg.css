@@ -584,7 +584,7 @@ a[data-fancybox] img {
 }
 
 ul.ul-interests li {
-  font-size: 0.9rem;
+  font-size: 16px;
 }
 
 ul.ul-edu {
@@ -601,11 +601,13 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 0.87rem;
+  /*font-size: 0.87rem;*/
+  font-size: 16px;
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.75rem;
+  /*font-size: 0.75rem;*/
+  font-size: 15px;
   color: rgba(0,0,0,0.6);
 }
 
@@ -858,13 +860,16 @@ article .article-metadata {
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 1rem;
-  color: #3170A5;
+  /*font-size: 1rem;*/
+  font-size: 18px;
+  color: #000000CC;
 }
 
 .pub-list-item .pub-publication {
   color: darkgreen;
-  font-size: 1rem;
+  /*font-size: 1rem;*/
+  font-size: 18px;
+
 }
 
 .pub-list-item .pub-links {
