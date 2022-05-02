@@ -1970,3 +1970,29 @@ body.dark,
 .dark a.badge:hover {
   color: rgba(255, 255, 255, .68);
 }
+
+.video-container{
+        display: flex;
+    }
+
+iframe{
+      width: 100%;
+    }
+
+@media screen and (max-width: 976px) {
+    .video-container{
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 976px) {
+    iframe{
+      width: 160%;
+    }
+}
+
+@media screen and (min-width: 977px) and (max-width: 1200px){
+    iframe{
+        width: 90%;
+    }
+}
