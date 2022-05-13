@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theodore M. Giannaros on Theodore M. Giannaros</title>
-    <link>https://tmgiannaros.github.io/</link>
-    <description>Recent content in Theodore M. Giannaros on Theodore M. Giannaros</description>
+    <title>Venkatesh S. Kadandale on Venkatesh S. Kadandale</title>
+    <link>https://vskadandale.github.io/</link>
+    <description>Recent content in Venkatesh S. Kadandale on Venkatesh S. Kadandale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
-    <item>
+    <!--<item>
       <title>CORDEX-WRF v1.3: development of a module for the Weather Research and Forecasting (WRF) model to support the CORDEX community</title>
       <link>https://tmgiannaros.github.io/publication/fita_et_al-2019-geoscientific_model_development/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -193,6 +193,6 @@ I responded by whispering in the devil&amp;rsquo;s ear, &amp;ldquo;&lt;strong&gt
       <guid>https://tmgiannaros.github.io/publication/dafis_et_al-2018-journal_of_geophysical_research/</guid>
       <description></description>
     </item>
-    
+    -->
   </channel>
 </rss>
