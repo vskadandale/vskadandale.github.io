@@ -1,11 +1,3 @@
-
-
-
-  
-
-  
-
-  
 /*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
@@ -1995,4 +1987,55 @@ iframe{
     iframe{
         width: 90%;
     }
+}
+
+/* Ensure the container aligns properly */
+/* Container for flashing text */
+.flashing-container {
+  display: inline-flex; /* Allows the container to flow with the rest of the text */
+  position: relative; /* Ensures children are positioned relative to this container */
+  width: 2.7em; /* Adjust width to fit the longest word */
+  height: 1.4em; /* Adjust height to fit the text */
+  vertical-align: middle; /* Align with the static text */
+  text-align: left; /* Center-align words inside the container */
+  line-height: normal;
+  color: #54231f;
+}
+
+/* Flashing words */
+.flashingspan {
+  position: absolute; /* Stack all words on top of each other inside the container */
+  width: 100%; /* Match the width of the container */
+  opacity: 0; /* Initially hidden */
+  animation-duration: 8s; /* Total animation cycle */
+  animation-iteration-count: infinite; /* Repeat indefinitely */
+  text-align: left;
+}
+
+/* Keyframes for flashing text */
+@keyframes flickerAnimation {
+  4%, 23% { opacity: 1; } /* Visible for its time window */
+  26%, 100% { opacity: 0; } /* Hidden for the rest */
+}
+
+/* Staggered animations */
+.flashingspan:nth-child(1) {
+  animation-name: flickerAnimation;
+  animation-delay: 0s; /* First word starts immediately */
+}
+
+.flashingspan:nth-child(2) {
+  animation-name: flickerAnimation;
+  animation-delay: 2s; /* Second word starts after 1 second */
+}
+
+.flashingspan:nth-child(3) {
+  animation-name: flickerAnimation;
+  animation-delay: 4s; /* Third word starts after 2 seconds */
+}
+
+.flashingspan:nth-child(4) {
+  animation-name: flickerAnimation;
+  height: 1.3em;
+  animation-delay: 6s; /* Third word starts after 2 seconds */
 }
